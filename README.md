@@ -12,8 +12,8 @@
   #### My Reading-notes table 
   Topic | Topic No | Link | Date |
   |-----| ---- |---- | -----|
-  Text Editor| Read 01 |[]()| Mon Mar 1, 2021
-  Text Editor| Read 01 |[]()| Mon Mar 1, 2021
+  Text Editor| Read 01 |[Text Editor](https://yaserananbeh.github.io/ASAC/Read-01/TextEditor)| Mon Mar 1, 2021
+  The Command Line| Read 01 |[The Command Line](https://yaserananbeh.github.io/ASAC/Read-01/TheCommandLine)| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
