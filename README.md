@@ -14,6 +14,6 @@
   |-----| ---- |---- | -----|
   Text Editor| Read 01 |[Text Editor](https://yaserananbeh.github.io/ASAC/Reading-notes/TextEditor)| Mon Mar 1, 2021
   The Command Line| Read 01 |[The Command Line](https://yaserananbeh.github.io/ASAC/Reading-notes/TheCommandLine)| Mon Mar 1, 2021
-  Text Editor| Read 01 |[]()| Mon Mar 1, 2021
+  Markdown| Read 02 |[Markdown](https://yaserananbeh.github.io/ASAC/Reading-notes/Markdown)| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
