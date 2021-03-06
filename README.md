@@ -18,6 +18,6 @@
   GitHub| Read 02a |[GitHub](https://yaserananbeh.github.io/ASAC/Reading-notes/GitHubPages)| Tue Mar 2, 2021
   Git | Read 02b |[Git](https://yaserananbeh.github.io/ASAC/Reading-notes/Git)| Tue Mar 2, 2021
   Growth Mindset| Lab02a |[Growth Mindset](https://yaserananbeh.github.io/ASAC/Reading-notes/GrowthMindset)| Tue Mar 2, 2021
-  Text Editor| Read 01 |[]()| Mon Mar 1, 2021
+  Structure Webpages with HTML| Read 03 |[Structure Webpages with HTML](https://yaserananbeh.github.io/ASAC/Reading-notes/StructureWebpageswithHTML)| Wed Mar 3, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
