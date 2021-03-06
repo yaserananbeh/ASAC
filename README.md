@@ -20,7 +20,7 @@
   Growth Mindset| Lab 02a |[Growth Mindset](https://yaserananbeh.github.io/ASAC/Reading-notes/GrowthMindset)| Tue Mar 2, 2021
   Structure Webpages with HTML| Read 03 |[Structure Webpages with HTML](https://yaserananbeh.github.io/ASAC/Reading-notes/StructureWebpageswithHTML)| Wed Mar 3, 2021
   Programming with JavaScript| Read 04a |[Programming with JavaScript](https://yaserananbeh.github.io/ASAC/Reading-notes/ProgrammingwithJavaScript)| Thu Mar 4, 2021
-  Text Editor| Read 01 |[]()| Mon Mar 1, 2021
+  How Computer Work| Read 04b |[How Computer Work](https://yaserananbeh.github.io/ASAC/Reading-notes/HowComputerWork)| Thu Mar 4, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
