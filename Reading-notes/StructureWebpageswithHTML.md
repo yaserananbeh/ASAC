@@ -1,5 +1,5 @@
 # Structure Webpages with HTML
-## Here I will put my notes about the Structure Webpages with HTML topic from Read03
+## Here I will put my notes about the Structure Webpages with HTML topic from Read 03
 
 ### chapter 18 Process & Design sammary 
 Firstly the chapter talk about the important of understand who your target audience
