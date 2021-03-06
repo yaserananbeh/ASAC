@@ -21,6 +21,6 @@
   Structure Webpages with HTML| Read 03 |[Structure Webpages with HTML](https://yaserananbeh.github.io/ASAC/Reading-notes/StructureWebpageswithHTML)| Wed Mar 3, 2021
   Programming with JavaScript| Read 04a |[Programming with JavaScript](https://yaserananbeh.github.io/ASAC/Reading-notes/ProgrammingwithJavaScript)| Thu Mar 4, 2021
   How Computer Work| Read 04b |[How Computer Work](https://yaserananbeh.github.io/ASAC/Reading-notes/HowComputerWork)| Thu Mar 4, 2021
-  Text Editor| Read 01 |[]()| Mon Mar 1, 2021
+  Dynamic WebPages With JavaScript| Read 04c |[Dynamic WebPages With JavaScript](https://yaserananbeh.github.io/ASAC/Reading-notes/DynamicWebPagesWithJavaScript)| Thu Mar 4, 2021	
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
   Text Editor| Read 01 |[]()| Mon Mar 1, 2021
