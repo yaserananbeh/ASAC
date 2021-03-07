@@ -23,4 +23,4 @@
   How Computer Work| Read 04b |[How Computer Work](https://yaserananbeh.github.io/ASAC/Reading-notes/HowComputerWork)| Thu Mar 4, 2021
   Dynamic WebPages With JavaScript| Read 04c |[Dynamic WebPages With JavaScript](https://yaserananbeh.github.io/ASAC/Reading-notes/DynamicWebPagesWithJavaScript)| Thu Mar 4, 2021	
   Operators & Loops| Read 05 |[Operators & Loops](https://yaserananbeh.github.io/ASAC/Reading-notes/Operators&Loops)| Sun Mar 7, 2021
-  Text Editor| Read 01 |[]()| Mon Mar 1, 2021
+  Design Webpages With CSS| Read 06b |[Design Webpages With CSS](https://yaserananbeh.github.io/ASAC/Reading-notes/DesignWebpagesWithCSS)| Mon Mar 8, 2021
