@@ -24,3 +24,4 @@
   Dynamic WebPages With JavaScript| Read 04c |[Dynamic WebPages With JavaScript](https://yaserananbeh.github.io/ASAC/Reading-notes/DynamicWebPagesWithJavaScript)| Thu Mar 4, 2021	
   Operators & Loops| Read 05 |[Operators & Loops](https://yaserananbeh.github.io/ASAC/Reading-notes/Operators&Loops)| Sun Mar 7, 2021
   Design Webpages With CSS| Read 06b |[Design Webpages With CSS](https://yaserananbeh.github.io/ASAC/Reading-notes/DesignWebpagesWithCSS)| Mon Mar 8, 2021
+  Color| Read 06b |[Color](https://yaserananbeh.github.io/ASAC/Reading-notes/Color)| Mon Mar 8, 2021
