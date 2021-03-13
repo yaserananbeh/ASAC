@@ -25,3 +25,19 @@
   Operators & Loops| Read 05 |[Operators & Loops](https://yaserananbeh.github.io/ASAC/Reading-notes/Operators&Loops)| Sun Mar 7, 2021
   Design Webpages With CSS| Read 06b |[Design Webpages With CSS](https://yaserananbeh.github.io/ASAC/Reading-notes/DesignWebpagesWithCSS)| Mon Mar 8, 2021
   Color| Read 06b |[Color](https://yaserananbeh.github.io/ASAC/Reading-notes/Color)| Mon Mar 8, 2021
+
+
+## --------------------------------------------------------------------------------
+## CODE 201
+
+## Firstly I'm going to give you a small introduction about my self again
+
+My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Engineering, I have 24 years old, I'm so glad to be here with you again, I am interested in web development and programming skills in general, I decided to enter this course to improve my programming skills to reach the labor market demands.
+
+### here I will put the content table of this course
+ 
+## My Reading-notes 201 Table 
+
+  Topic | Topic No | Link | Date |
+  |-----| ---- |---- | -----|
+  Introductory HTML and JavaScript| Read 01 |[Introductory HTML and JavaScript](https://yaserananbeh.github.io/ASAC/Reading-notes201/IntroductoryHTMLAndJavaScript)| Sat Mar 13, 2021
