@@ -220,3 +220,28 @@ arithmetic operators
 
 ## Decisions and loops 
 
+We use them to control the code flow and to control code run times 
+
+Example of the decisions ( If , switch )
+
+Examples about the loops (for , while , do while , for each);
+
+
+## comparision operator
+we using it to compare two values and the result of those operators is True or False some example of those operator
+
+`==` Is equal to This to sure if the two sides before and after is equal each other then will return true if not equal will return false
+
+`!=` Is not equal this to be sure if the two sides is not equal eathother, return true if is not and return false if equal each other
+
+`===` to be sure if the two sides of arround the operator is equal each other in value and datatype
+
+`!==` to be sure if the two sides are not equal in the value and in the data type as well.
+
+`>` Greater than
+
+`<` less than
+
+`<=` less than or equal to
+
+`>=` greater than or equal to
