@@ -42,3 +42,4 @@ My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Enginee
   |-----| ---- |---- | -----|
   Introductory HTML and JavaScript| Read 01 |[Introductory HTML and JavaScript](https://yaserananbeh.github.io/ASAC/Reading-notes201/IntroductoryHTMLAndJavaScript)| Sat Mar 13, 2021
   Basics of HTML, CSS & JS| class-02 |[Basics of HTML, CSS & JS](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-02)| Mon Mar 15, 2021
+  HTML Lists, Control Flow with JS, and the CSS Box Model| class-03 |[HTML Lists, Control Flow with JS, and the CSS Box Model](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-03)| Tue Mar 16, 2021

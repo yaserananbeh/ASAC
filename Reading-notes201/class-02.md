@@ -245,3 +245,7 @@ we using it to compare two values and the result of those operators is True or F
 `<=` less than or equal to
 
 `>=` greater than or equal to
+
+### The main difference between for and while
+in for we use it usually with the numbers and we should know the End of the loop
+in while it is more efficient with the strings and we use with the cases that we don't how many the code will run
