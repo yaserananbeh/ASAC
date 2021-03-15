@@ -76,3 +76,68 @@ we can control the shadow that around our box using this proparity
 ### border-radius 
 
 to control the angle amount of the border to make rounded corners 
+
+
+# Javascript
+
+### Variables 
+As we know the defintion of the variables is a container to any type of data and can be changed 
+
+**Decleration**
+
+By using these keywords `var or let or const ` then enter the name of the variable don't forget the rules of naming the variables after the name we have to assign the variable value after equal sign 
+
+**Data type**
+
+the type of the data what we will assign to the variable maybe it will be a string or a number or a boolean 
+
+we can use the variables to store any of these data types 
+
+## **Decicions and loops**
+
+### **Switch statment**
+
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value. 
+
+You have a default option that is run if none of the cases match. 
+If a match is found, that code is run; then the break statement stops the rest of the switch statement running (providing better performance than multiple if statements)
+
+
+### **Loops**
+
+a type of statments or cammand that we can use them to control the flow of our code and for more explanation loops check a condition if the condition return true will do the same execution code how many time the condition ruturn true 
+
+**Loops Examples**
+ - for loop 
+ - while 
+ - do while 
+ - foreach
+
+ ### for loop 
+ it will has 3 parts first one the initalization part and then the condition then the couter (update)
+
+        for (var x=0 ; x<5; x++){
+                // the execution code
+        }
+
+### while loop
+it has 3 parts but a little bit different from the the for statment 
+
+        var x=0;
+        while (x < 5){
+                //execution code 
+
+                x++;
+        }
+
+### do while loop 
+the same as the original while but it do the code for one time before it check the condition 
+
+        var=0;
+        do{
+                //execution code 
+                x++;
+
+        } while(x<5);
+
+        
