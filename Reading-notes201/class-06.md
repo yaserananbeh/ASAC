@@ -24,3 +24,38 @@
 - A node element may include several text nodes and The elements of children who are mutually siblings.
 - The implementation of the DOM is in older browsers Incompatible (and is a popular reason for using jQuery). 
 - Browsers include DOM tree display resources
+
+### Note Each node is an object with methods and properties. Scripts access and update this DOM tree (not the source HTML file). Any changes made to the DOM tree are reflected in the browser. 
+
+
+when we make any web page the browser will make a DOM for our page and make every element in the page as an object this object we can access to it by many ways the dom will provide many way to access them 
+
+Example we can access any element by its ID using this command document.getElementById('the id') and this mean select the element which has this id and the type of dom return to us one element only(one node) like this command querySelector()
+
+here another examples that return to us more than one element (nodeList) even if it only finds one element these command will return (nodeList) this nodelist will be has a number of indexes like the array and we can call the first element in the node by call the zero index of the node list examples to these command is `getElementsByTagName()` and `getElementsByClassName()` and `querySelectorAll()`
+
+
+let's learn how to select an element from the node list after we select it : the first way is by using this command `document.getElementsByClassName('class').item(0)` this command select the first element in the node list which it returned from document.getElementsByClassName('class') and we can use the squer prackets enstead of the parnthesis and it's the best practise when we trying to reach an item in nodelist 
+
+also we can use this command to reach more than one element in the dom `document.getElementsByTagName('li);` and this command `document.querySelectorAll('')` as well, this to select multiple element have the same css selector 
+
+### Traversing the dom
+
+    When you have an element node, you can select another element in relation to it using these five properties. This is known as traversing the DOM. 
+
+- parentNode
+- previousSibling
+- nextSibling
+- firstChild 
+- lastChild
+    ```    
+        var startltem = document.getElementByid('two'); 
+        var prevltem startltem.previousSibling; 
+        var nextltem = startitem.nextSibling; 
+
+        var startltem = document.getElementsByTagName('ul ') [OJ ; 
+        var firstltem = startltem. firstChild; 
+        var lastltem = startitem.lastCh i ld; 
+    ```
+
+
