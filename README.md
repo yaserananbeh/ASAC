@@ -50,3 +50,4 @@ My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Enginee
   CSS Layout| class-08 |[CSS Layout](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-08)| Tue Mar 23, 2021
   Forms and JS Events| class-09 |[Forms and JS Events](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-09)| Wed Mar 24, 2021
   Error Handling & Debugging| class-10 |[Error Handling & Debugging](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-10)| Thu Mar 25, 2021
+  Audio, Video, Images| class-11 |[Audio, Video, Images](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-11)| Sun Mar 28, 2021	
