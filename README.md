@@ -53,3 +53,5 @@ My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Enginee
   Audio, Video, Images| class-11 |[Audio, Video, Images](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-11)| Sun Mar 28, 2021	
   Chart.js, Canvas| class-12 |[Chart.js, Canvas](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-12)| Mon Mar 29, 2021	
   Local Storage| class-13 |[Local Storage](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-13)| Tue Mar 30, 2021
+  CSS Transforms, Transitions, and Animations| class-14a |[CSS Transforms, Transitions, and Animations](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-14a)| Wed Mar 31, 2021
+  What Google Learned About Teams| class-14b |[What Google Learned About Teams](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-14b)| Wed Mar 31, 2021
