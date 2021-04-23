@@ -57,6 +57,12 @@ My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Enginee
   What Google Learned About Teams| class-14b |[What Google Learned About Teams](https://yaserananbeh.github.io/ASAC/Reading-notes201/class-14b)| Wed Mar 31, 2021
 
 
+
+
+## --------------------------------------------------------------------------------
+
+
+
 ## Code 301 - Intermediate Software Development
 
 ### here I will put the content table of this course
