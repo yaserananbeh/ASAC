@@ -77,7 +77,7 @@ My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Enginee
   Class 04| Class 04 |[Class-04](https://yaserananbeh.github.io/ASAC/Reading-notes301/Class-04)| 	Wed Jun 9, 2021
   Class 05| Class 05 |[Class-05](https://yaserananbeh.github.io/ASAC/Reading-notes301/Class-05)| Thu Jun 10, 2021
   Class 06| Class 06 |[Class-06](https://yaserananbeh.github.io/ASAC/Reading-notes301/Class-06)| 
-  Class 07| Class 07 |[Class-07]()| 
+  Class 07| Class 07 |[Class-07](https://yaserananbeh.github.io/ASAC/Reading-notes301/Class-07)| Mon Jun 14,2021
   Class 08| Class 08 |[Class-08]()| 
   Class 09| Class 09 |[Class-09]()| 
   Class 10| Class 10 |[Class-10]()| 
