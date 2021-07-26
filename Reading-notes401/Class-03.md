@@ -46,24 +46,27 @@
 **We use them to get inputs from the user, and objects of type Scanner are useful for breaking down formatted input into tokens and translating individual tokens according to their data type.**
 
 **Here's an example of how to make scanner**
-```public static void main(String[] args) {
-    Scanner myObj = new Scanner(System.in);
 
-    System.out.println("Enter name, age and salary:");
+        public static void main(String[] args) {
+            Scanner myObj = new Scanner(System.in);
 
-    // String input
-    String name = myObj.nextLine();
+            System.out.println("Enter name, age and salary:");
 
-    // Numerical input
-    int age = myObj.nextInt();
-    double salary = myObj.nextDouble();
+            // String input
+            String name = myObj.nextLine();
 
-    // Output input by user
-    System.out.println("Name: " + name);
-    System.out.println("Age: " + age);
-    System.out.println("Salary: " + salary);
-  }
-  ```
+            // Numerical input
+            int age = myObj.nextInt();
+            double salary = myObj.nextDouble();
+
+            // Output input by user
+            System.out.println("Name: " + name);
+            System.out.println("Age: " + age);
+            System.out.println("Salary: " + salary);
+        }
+
+
+  **Explanation**
   - the example above show us that we in order to use the scanner we have to make an instance from it 
   - and then print out a message to the users to enter the entries 
   - then we can save the entries inside a variable using the instance.nextLine();
