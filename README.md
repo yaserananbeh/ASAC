@@ -118,3 +118,4 @@ My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Enginee
   Class 17| Class 17 |[Spring Authorization](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-17)| 
   Class 18| Class 18 |[Web App Security](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-18)| 
   Class 19| Class 19 |[Spring and Sockets](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-19)| 
+  Class 26| Class 26 |[Android fundamentals](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-26)|   
