@@ -122,3 +122,4 @@ My name is Yaser Al-Ananbeh I have graduated with BCA degree in Software Enginee
   Class 27| Class 27 |[Intents, Activities, and SharedPreferences](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-27)|   
   Class 28| Class 28 |[Create dynamic lists with RecyclerView  ](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-28)|   
   Class 29| Class 29 |[Room](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-29)|   
+  Class 30| Class 30 |[Hash Tables](https://yaserananbeh.github.io/ASAC/Reading-notes401/Class-30)|   
